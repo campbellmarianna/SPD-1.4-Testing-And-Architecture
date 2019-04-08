@@ -16,4 +16,4 @@ Book Reading for Course: [Code Complete](http://aroma.vn/web/wp-content/uploads/
 
 [DAY 2] Planning and doing pseudocode is the actions of an engineer that separates that someone hacking away - not knowing what their doing and the real engineer.
 
-- [Resource] (https://make-school-courses.github.io/SPD-1.4-Testing-And-Architecture/Resources/2-PseudocodeForPros.pdf)
+- [Resource](https://make-school-courses.github.io/SPD-1.4-Testing-And-Architecture/Resources/2-PseudocodeForPros.pdf)
