@@ -70,4 +70,12 @@ Slight Improvement after feedback
         # Otherwise
             # set current_node to previous_node
             # set the node the current_node points to to the previouus node.
-            #
+
+# Interview Practie Problem
+Write pseudocode that given a linked list, outputs the linked list with the items in reverse order.
+Input: (1 is the head) 1->2->3->4->NULL
+
+Output: (4 is the head): 4->3->2->1->NULL
+
+Processing:
+- Write Pseudocode in notebook
