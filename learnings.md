@@ -20,3 +20,6 @@ Book Reading for Course: [Code Complete](http://aroma.vn/web/wp-content/uploads/
 
 [DAY 3] Pseudocode should be readable by anyone, well written pseudocode should facilitate better communication.
 - [Pseudocode Presentation](https://docs.google.com/presentation/d/1L1wMNjLkIoL7mXApJZcZJKKYqaOIjOfww5oDyF4yzz0/edit?usp=sharing)
+
+[DAY 4] Loose compiling is having a program do one or two things that are needed for the system to work and it can be easily replaced. While tight compiling is having a program do 5 or 6 things, it breaks and you don't know where to start to solve the problem.
+- [Netflix Pioneered the Microservice](https://netflix.github.io/)

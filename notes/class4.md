@@ -35,7 +35,8 @@
 
 - First job you will probably be assigned to fix tickets, its a way for higher ups to through you into the deep end and for you to learn how things work in the system
 
-## Know the difference between loose compiling and tight compiling
+## Know the difference between loose compiling and tight compiling (ex: I can take out the memory card and put in a new one for my device)
+
 ## Write down why your doing something in your comments
     - tells you the intention of the group of code
         ```
@@ -44,8 +45,7 @@
         ```
 ## Our jobs is to communicate intention to the outside world
 
-    -
-# I like working at Pinterest because they appreciate me added testability
+# Example of I like working at Pinterest because they appreciate me added testability
 
 # It is so good and important to talk to other engineers that you haven't talked to because everyone comes from a different place
 
@@ -53,22 +53,22 @@
 
 # Low Level Design - What it looks like 10 inches a way
 
-# Do n
-## The act of articulating how your building the software makes you a better engineer -
+## The act of articulating how your building the software makes you a better engineer
 
 ## When you want to code something talk about someone who will write the test
-    - You case say I'm thinking about writing this how would you test this
+    - You can say I'm thinking about writing code, this how would you test this
 
-## Take feedback no matter how badly it is delivered
+## Take feedback no matter how badly it is delivered take the intention behind it
 
 # Bugs are expensive and we have a process to get re
 
 # Have a Quality Gate: before you release something
     - Identify what is good enough and what are perfect
 
-# Read Code Complete for your first job
+# Read Code Complete while on your first job
 
 # Your output as a develper is very important and the person who signs your checks is watching that
 -
 
-# It is most expensi
+# A bug is most expensive when a newsletter was released, the site was linked and this portion of the site was suppose to done
+    - This bug is most expensive, because you loose sells (people buying the product) and if it was a store feature you loose trust with your users.
