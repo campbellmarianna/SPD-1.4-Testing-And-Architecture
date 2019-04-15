@@ -23,3 +23,6 @@ Book Reading for Course: [Code Complete](http://aroma.vn/web/wp-content/uploads/
 
 [DAY 4] Loose compiling is having a program do one or two things that are needed for the system to work and it can be easily replaced. While tight compiling is having a program do 5 or 6 things, it breaks and you don't know where to start to solve the problem.
 - [Netflix Pioneered the Microservice](https://netflix.github.io/)
+
+[DAY 5] Write code for people not computers
+- [Refactor Rebric](https://docs.google.com/document/d/1z3wb-LJK4rKVdV97uUQtweBDC56TWPg7GW3CH6nWA4I/edit)
