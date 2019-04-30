@@ -26,3 +26,6 @@ Book Reading for Course: [Code Complete](http://aroma.vn/web/wp-content/uploads/
 
 [DAY 5] Write code for people not computers
 - [Refactor Rebric](https://docs.google.com/document/d/1z3wb-LJK4rKVdV97uUQtweBDC56TWPg7GW3CH6nWA4I/edit)
+
+[DAY 6] Abstraction helps your audience understand the main idea and allows you to explain your ideas in a way that they are connected and they flow.
+- [Code Refactor Blogpost](https://medium.com/@marianna.campbell/exercism-refactor-ccf8cc44b015)
