@@ -7,7 +7,6 @@
 [Course Tracker](https://make.sc/trackspd1.4)
 
 
-
 Book Reading for Course: [Code Complete](http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition-v413hav.pdf)
 
 [DAY 1] There is a process to creating something that has never been done before and it is called Software Construction.
@@ -29,3 +28,6 @@ Book Reading for Course: [Code Complete](http://aroma.vn/web/wp-content/uploads/
 
 [DAY 6] Abstraction helps your audience understand the main idea and allows you to explain your ideas in a way that they are connected and they flow.
 - [Code Refactor Blogpost](https://medium.com/@marianna.campbell/exercism-refactor-ccf8cc44b015)
+
+[DAY 11] Taking the time to take a write a ticket that describes the user story, requirements, business value, edge cases, and risks (if applicable) is great investment know for using less time later.
+- [Ticket Writing Reference](https://docs.google.com/presentation/d/1ELpW7E9ccpW3rDtMEEaq57dvix00ca0GB2dxhrleJOY/edit#slide=id.p)

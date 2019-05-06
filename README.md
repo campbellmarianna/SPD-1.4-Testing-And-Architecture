@@ -47,8 +47,8 @@ Students by the end of the course will be able to ...
 |  6 |  Wednesday, April 17                     | [Lab: Refactoring](Lessons/Lesson6.md) |
 |  7 |  Monday, April 22                        | [Developer Testing](Lessons/Lesson7.md) |
 |  8 |  Wednesday, April 24                     | [Lab: Testing](Lessons/Lesson8.md) |
-|  9 |  Monday, April 29                        | [Debugging/Refactoring](Lessons/Lesson9.md) |
-| 10 |  Wednesday, May 1                        | [Lab: Blog Post](Lessons/Lesson10.md) |
+|  9 |  Monday, April 29                        | [Lab: Blog Post](Lessons/Lesson9.md) |
+| 10 |  Wednesday, May 1                        | [Debugging/Refactoring](Lessons/Lesson10.md) |
 | 11 |  Monday, May 6                           | [Ticketing](Lessons/Lesson11.md) |
 | 12 |  Wednesday, May 8                        | [Code-Tuning Strategies](Lessons/Lesson12.md) |
 | 13 |  Monday, May 13                          | Final Class: Review Session |
@@ -56,7 +56,35 @@ Students by the end of the course will be able to ...
 
 ## Class Assignments
 
-- Coming soon!
+There will be **three** primary assignments for this course in addition to the lab assignments. These primary assignments are:
+
+- Refactor an old project
+- Blog post on the refactor
+- [Reflected Best Self write up](https://github.com/Make-School-Courses/SPD-1.4-Testing-And-Architecture/blob/master/Assignments/Reflective-Best-Self.md)
+
+Please view **descriptions and due dates** on the assignments [here](https://docs.google.com/document/d/17UXI7OUNNSqgSjRmWpEBMTybAmEjcqwW1KI-yP_-wCU/edit?usp=sharing)
+
+### Lab Assignments
+
+These are to be finished by the **end of the course**
+
+**Pseudocode** ([Tracker columns](https://docs.google.com/spreadsheets/d/12DDJDz73An4knCUSQMOLK0EBQD-jzM90Z1PauibzADY/edit#gid=136456159) F, G)
+
+- Pick a function to write psuedocode for
+- Psuedocode for that chosen function
+
+**Refactoring** ([Tracker columns](https://docs.google.com/spreadsheets/d/12DDJDz73An4knCUSQMOLK0EBQD-jzM90Z1PauibzADY/edit#gid=136456159) H, I, J)
+
+- Written plan for how you're going to implement your refactor
+- Link to the commit containing your Refactored code
+- Score on the refactor based on the refactor rubric
+- Name of the person(s) who graded your refactor
+- Link to the commit containing the updates you made to your refactor based on feedback from the rubric
+
+**Testing** ([Tracker column](https://docs.google.com/spreadsheets/d/12DDJDz73An4knCUSQMOLK0EBQD-jzM90Z1PauibzADY/edit#gid=136456159) M)
+
+- link to tests written for your chosen project
+
 
 ### Project Policy
 
